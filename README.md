@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello-Microverse
+# HelloMicroverse
 
 > This is a Linter Setup Project to catch syntax errors in HTML & CSS.
 
